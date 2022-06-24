@@ -1,6 +1,6 @@
-# [¿Quieres ser mi novia?]
+# ¿Quieres ser mi novia?
 
-[![Kierrez Zer My Nobia](https://ibb.co/4Tw1gSf)]()
+[![Quieres ser mi novia?](https://media.discordapp.net/attachments/988524370198683681/989933199457136710/Screenshot_1.png?width=1042&height=522)]()
 
 Web para declararte a tu Crush. Editable para compartir con esa persona que siempre te dice que NO.
 
